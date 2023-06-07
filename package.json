@@ -1,0 +1,30 @@
+{
+  "name": "pizzabay-scraper",
+  "version": "1.0.0",
+  "description": "Simple scraper for high quality images using Puppeteer",
+  "bin": {
+    "pizzabay-scraper": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Numonu/pizzabay-scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "images",
+    "json",
+    "scraping"
+  ],
+  "author": "numonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Numonu/pizzabay-scraper/issues"
+  },
+  "homepage": "https://github.com/Numonu/pizzabay-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^20.5.0"
+  }
+}
