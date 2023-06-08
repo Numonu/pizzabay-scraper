@@ -23,10 +23,15 @@ npm install pizzabay-scraper
 
 ## Getting Started
 
-Just run this command in your project
-
+Fill in the parameters and execute the command
+  
 ```sh
 npx pizzabay-scraper <category-of-images> <amount-of-images>
+```
+## Example
 
+get 10 images of kittens  
+  
+```sh
 npx pizzabay-scraper kittens 10
 ```
