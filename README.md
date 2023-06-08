@@ -39,7 +39,7 @@ get 3 images of kittens
 npx pizzabay-scraper kittens 3
 ```
 
-response
+Generates the following JSON file
 
 ```json
 [
