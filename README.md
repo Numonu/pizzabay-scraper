@@ -2,8 +2,6 @@
 <div align="center">Dozens of urls at a single command distance.</div>
 <br />
 <div align="center">
-<br />
-<div align="center">
   <sub>Cooked by <a href="https://www.instagram.com/villegas.arts/">Numonu</a> 👨‍🍳</sub>
 </div>
 
