@@ -1,4 +1,7 @@
-<div align="center"><strong>High Quality Image Scraping</strong></div>
+<div align="center">
+  <img width="400" src="https://cdn.leonardo.ai/users/11921fdd-d4bf-451b-899a-d586b1a7ee01/generations/8f9d73d0-3711-477a-812a-7d70e3dabf9a/variations/Default_Splash_art_of_pizza_portrait_poster_pizza_whitebackgr_1_8f9d73d0-3711-477a-812a-7d70e3dabf9a_0.png">
+  <strong>High Quality Image Scraping</strong>
+</div>
 <div align="center">Dozens of urls at a single command distance.</div>
 <br />
 <div align="center">
