@@ -33,27 +33,27 @@ npx pizzabay-scraper <category-of-images> <amount-of-images>
 ```
 ## Example
 
-get 3 images of kittens  
+get 3 images of pizza  
   
 ```sh
-npx pizzabay-scraper kittens 3
+npx pizzabay-scraper pizza 3
 ```
 
 Generates the following JSON file
 
 ```json
 [
-  {
-    "imageUrl": "https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_640.jpg",
-    "tags": ["Kitty", " Juguetón", " Flores"]
-  },
-  {
-     "imageUrl": "https://cdn.pixabay.com/photo/2018/05/30/19/29/kitten-3442257_640.jpg",
-     "tags": ["Gatito", " Gato", " Mascota", " Felino", " Animal"]
-  },
-  {
-     "imageUrl": "https://cdn.pixabay.com/photo/2020/01/10/22/52/cat-4756360_640.jpg",
-     "tags": ["Gato", " British Shorthair", " Gatito", " Vista"]
-  }
+	{
+		"imageUrl": "https://cdn.pixabay.com/photo/2022/03/04/00/47/wine-7046276_640.jpg",
+		"tags": ["wine", "pizza", "food"]
+	},
+	{
+		"imageUrl": "https://cdn.pixabay.com/photo/2014/04/02/14/12/pizza-306495_640.png",
+		"tags": ["pizza", "mushroom", "peppers"]
+	},
+	{
+		"imageUrl": "https://cdn.pixabay.com/photo/2014/06/10/15/47/pizza-366111_640.jpg",
+		"tags": ["pizza", "chef", "cook"]
+	}
 ]
 ```
