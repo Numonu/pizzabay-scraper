@@ -10,7 +10,7 @@ const fs = require("fs");
 
     const browser = await puppeteer.launch({headless : "new"});
     const page = await browser.newPage();
-    await page.goto(`https://pixabay.com/es/images/search/${category}/` , {
+    await page.goto(`https://pixabay.com/en/images/search/${category}/` , {
         timeout : 120 * 1000
     });
 
