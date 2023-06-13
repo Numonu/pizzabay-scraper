@@ -23,7 +23,7 @@ const fs = require("fs");
         const result = container.map(e => {
 
             const image = e.querySelector("img");
-            const tags = image.getAttribute("alt").split(",");
+            const tags = [...e.querySelectorAll(".tags--0v3Rq > a")].map(e => e.textContent);
 
             const imageUrl = e.querySelector('meta[itemprop=contentUrl]').content;
         
