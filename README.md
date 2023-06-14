@@ -21,7 +21,7 @@ Generates a json file with links and categories of high quality images
 #### With NPM
 
 ```sh
-npm install pizzabay-scraper
+npm install pizzabay-scraper --save-dev
 ```
 
 ## Getting Started
